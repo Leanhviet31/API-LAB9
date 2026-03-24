@@ -1,12 +1,30 @@
-
 {
   "posts": [
     {
       "id": 1,
       "title": "hello"
+    },
+    {
+      "id": 2,
+      "title": "Kiểm thử API với Postman"
+    },
+    {
+      "id": 3,
+      "title": "Hướng dẫn viết Test Script cơ bản"
+    },
+    {
+      "id": 4,
+      "title": "Ứng dụng Data-Driven Testing"
+    },
+    {
+      "id": 5,
+      "title": "Cách thiết lập biến môi trường (Environment Variables)"
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "typicode",
+    "role": "Automation Tester",
+    "email": "tester@typicode.com",
+    "experience": "3 years"
   }
 }
